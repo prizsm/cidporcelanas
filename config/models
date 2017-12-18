@@ -1,0 +1,87 @@
+Falecom
+    nome     Text
+    telefone Int
+    email    Text
+    mensagem Text
+    deriving Show
+
+Usr
+    email       Text
+    senha       Text
+    UniqueEmail email
+
+Estoqueporcelana
+    codigo     Int
+    tipo       Text
+    subtipo    Text
+    tamanho    Text
+    quantidade Int
+    observacao Text
+    deriving   Show
+
+Estoquemoldura
+    codigo     Int
+    quantidade Int
+    observacao Text
+    deriving   Show
+
+Orcporcelana
+    louca      Double
+    qtde       Double
+    arte       Double
+    deriving   Show
+
+Orcporcelana1
+    louca1      Double
+    qtde1       Double
+    arte1       Double
+    louca2      Double
+    qtde2       Double
+    arte2       Double
+    louca3      Double
+    qtde3       Double
+    arte3       Double
+    deriving   Show
+
+Orcmoldura
+    modelo          Double
+    lado1           Double
+    lado2           Double
+    paspatour       Double
+    deriving        Show
+
+Orcmoldura1
+    modelo          Double
+    lado1           Double
+    lado2           Double
+    paspatour       Double
+    deriving        Show
+    
+Pedidoporcelana
+    status          Text
+    entrada         Text
+    clientenome     Text
+    clientetelefone Text
+    tipo            Text
+    subtipo         Text
+    quantidade      Int
+    arte            Text
+    observacao      Text
+    pagamento       Text
+    valorfinal      Double
+    deriving        Show
+
+Pedidomoldura
+    status          Text
+    entrada         Text
+    clientenome     Text
+    clientetelefone Text
+    lado1           Double
+    lado2           Double
+    quantidade      Int
+    modelo          Text
+    paspatour       Text
+    vidro           Text
+    observacao      Text
+    valorfinal      Double
+    deriving        Show

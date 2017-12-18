@@ -1,0 +1,23 @@
+^{menu3}
+
+<h2>Pedidos de molduras</h2>
+<br><br>
+<table border="1px" align="center" padding="30px">
+    <tr> 
+        <td><strong> ID  
+        <td><strong> Lado 1
+        <td><strong> Lado 2
+        <td><strong> Modelo
+        <td><strong> Paspatour
+
+    $forall Entity orcmolid orcmoldura1 <- moldurass
+        <tr>
+            <form action=@{DelOrcmoldura1R orcmolid} method=post> 
+                <td> #{show $ fromSqlKey                     orcmolid}  
+                <td> #{orcmoldura1Lado1                       orcmoldura1} 
+                <td> #{orcmoldura1Lado2                       orcmoldura1} 
+                <td> #{orcmoldura1Modelo                      orcmoldura1} 
+                <td> #{orcmoldura1Paspatour                   orcmoldura1} 
+                <td> <input type="submit" class="botao" value="Excluir">
+<br><br>
+^{rodape}

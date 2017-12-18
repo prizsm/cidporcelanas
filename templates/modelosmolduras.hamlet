@@ -1,0 +1,39 @@
+<div id="portfolio2">
+    <h1>MOLDURAS DISPONÍVEIS</h1>
+        <h2>PEQUENAS</h2>
+        <ul>
+            <li><a href="@{OrcmolduraR}"><img src="static/img/molduras/004.jpg" class="img-port2"><br><span class="negrito">MODELO: 004</span><br>CORES: Branco - Bege - Tabaco </a>
+            <li><a href="@{OrcmolduraR}"><img src="static/img/molduras/024.jpg" class="img-port2"><br><span class="negrito">MODELO: 024</span><br>CORES: Branco - Preto - Dourado - Prata - Azul</a>
+            <li><a href="@{OrcmolduraR}"><img src="static/img/molduras/028.jpg" class="img-port2"><br><span class="negrito">MODELO: 028</span><br>CORES: Cerejeira - Mogno - Marfim - Jeans</a>
+            <li><a href="@{OrcmolduraR}"><img src="static/img/molduras/035.jpg" class="img-port2"><br><span class="negrito">MODELO: 035</span><br>CORES: Marfim - Bege - Marrom</a>
+            <li><a href="@{OrcmolduraR}"><img src="static/img/molduras/043.jpg" class="img-port2"><br><span class="negrito">MODELO: 043</span><br>CORES: Branco - Vermelho - Azul - Amarelo - Rosa - Verde - Laranja - Tabaco - Preto</a>
+            <li><a href="@{OrcmolduraR}"><img src="static/img/molduras/320.jpg" class="img-port2"><br><span class="negrito">MODELO: 320</span><br>CORES: Ouro Velho</a>
+            <li><a href="@{OrcmolduraR}"><img src="static/img/molduras/428.jpg" class="img-port2"><br><span class="negrito">MODELO: 428</span><br>CORES: Bege - Marrom</a>
+        <hr>
+        <h2>MÉDIAS</h2>
+        <ul>
+            <li><a href="@{OrcmolduraR}"><img src="static/img/molduras/032.jpg" class="img-port2"><br><span class="negrito">MODELO: 032</span><br>CORES: Bege</a>
+            <li><a href="@{OrcmolduraR}"><img src="static/img/molduras/401.jpg" class="img-port2"><br><span class="negrito">MODELO: 401</span><br>CORES: Branco</a>
+            <li><a href="@{OrcmolduraR}"><img src="static/img/molduras/416.jpg" class="img-port2"><br><span class="negrito">MODELO: 416</span><br>CORES: Branco - Preto</a>
+            <li><a href="@{OrcmolduraR}"><img src="static/img/molduras/432.jpg" class="img-port2"><br><span class="negrito">MODELO: 432</span><br>CORES: Branco - Marrom</a>
+            <li><a href="@{OrcmolduraR}"><img src="static/img/molduras/511.jpg" class="img-port2"><br><span class="negrito">MODELO: 511</span><br>CORES: Branco - Preto - Vermelho - Marrom - Prata - Tabaco - Bege - Marfim</a>
+            <li><a href="@{OrcmolduraR}"><img src="static/img/molduras/523.jpg" class="img-port2"><br><span class="negrito">MODELO: 523</span><br>CORES: Branco - Preto - Bege - Tabaco</a>
+            <li><a href="@{OrcmolduraR}"><img src="static/img/molduras/765.jpg" class="img-port2"><br><span class="negrito">MODELO: 765</span><br>CORES: Marfim - Bege - Ouro Velho</a>
+            <li><a href="@{OrcmolduraR}"><img src="static/img/molduras/794.jpg" class="img-port2"><br><span class="negrito">MODELO: 794</span><br>CORES: Prata - Marrom</a>
+            <li><a href="@{OrcmolduraR}"><img src="static/img/molduras/810.jpg" class="img-port2"><br><span class="negrito">MODELO: 810</span><br>CORES: Bege - Preto - Tabaco</a>
+        <hr>
+        <h2>GRANDES</h2>
+        <ul>
+            <li><a href="@{OrcmolduraR}"><img src="static/img/molduras/275.jpg" class="img-port2"><br><span class="negrito">MODELO: 275</span><br>CORES: Cerejeira - Marfim</a>
+            <li><a href="@{OrcmolduraR}"><img src="static/img/molduras/418.jpg" class="img-port2"><br><span class="negrito">MODELO: 418</span><br>CORES: Branco - Bege - Marrom - Tabaco</a>
+            <li><a href="@{OrcmolduraR}"><img src="static/img/molduras/419.jpg" class="img-port2"><br><span class="negrito">MODELO: 419</span><br>CORES: Branco</a>
+            <li><a href="@{OrcmolduraR}"><img src="static/img/molduras/426.jpg" class="img-port2"><br><span class="negrito">MODELO: 426</span><br>CORES: Branco - Preto</a>
+            <li><a href="@{OrcmolduraR}"><img src="static/img/molduras/438.jpg" class="img-port2"><br><span class="negrito">MODELO: 438</span><br>CORES: Branco - Preto</a>
+            <li><a href="@{OrcmolduraR}"><img src="static/img/molduras/440.jpg" class="img-port2"><br><span class="negrito">MODELO: 440</span><br>CORES: Marfim - Marrom</a>
+            <li><a href="@{OrcmolduraR}"><img src="static/img/molduras/712.jpg" class="img-port2"><br><span class="negrito">MODELO: 712</span><br>CORES: Ouro Velho</a>
+            <li><a href="@{OrcmolduraR}"><img src="static/img/molduras/724.jpg" class="img-port2"><br><span class="negrito">MODELO: 724</span><br>CORES: Marrom - Marfim</a>
+            <li><a href="@{OrcmolduraR}"><img src="static/img/molduras/766.jpg" class="img-port2"><br><span class="negrito">MODELO: 766</span><br>CORES: Prata - Marrom - Tabaco</a>
+            <li><a href="@{OrcmolduraR}"><img src="static/img/molduras/767.jpg" class="img-port2"><br><span class="negrito">MODELO: 767</span><br>CORES: Marfim - Tabaco</a>
+            <li><a href="@{OrcmolduraR}"><img src="static/img/molduras/769.jpg" class="img-port2"><br><span class="negrito">MODELO: 769</span><br>CORES: Marrom</a>
+            <li><a href="@{OrcmolduraR}"><img src="static/img/molduras/775.jpg" class="img-port2"><br><span class="negrito">MODELO: 775</span><br>CORES: Marfim - Marrom</a>
+            <li><a href="@{OrcmolduraR}"><img src="static/img/molduras/802.jpg" class="img-port2"><br><span class="negrito">MODELO: 802</span><br>CORES: Marfim - Marrom</a>

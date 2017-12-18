@@ -1,0 +1,24 @@
+^{menu3}
+
+<h2>Orçamentos de Porcelanas recebidos</h2>
+
+<br><br>
+<table border="1px" align="center" padding="30px">
+    <tr> 
+        <td><strong> ID  
+        <td><strong> Lado 1
+        <td><strong> Lado 2
+        <td><strong> Modelo
+        <td><strong> Paspatour
+
+    $forall Entity orcmolid orcmoldura <- molduras
+        <tr>
+            <form action=@{DelOrcmolduraR orcmolid} method=post> 
+                <td> #{show $ fromSqlKey                     orcmolid}  
+                <td> #{orcmolduraLado1                       orcmoldura} 
+                <td> #{orcmolduraLado2                       orcmoldura} 
+                <td> #{orcmolduraModelo                      orcmoldura} 
+                <td> #{orcmolduraPaspatour                   orcmoldura} 
+                <td> <input type="submit" class="botao" value="Excluir">
+<br><br>
+^{rodape}

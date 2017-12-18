@@ -1,0 +1,10 @@
+<div id="portfolio2">
+    <a href="@{CanecasR}"><img src="static/img/portfolio/botao002.jpg" class="img-port3"></a>
+    <a href="@{XicarasR}"><img src="static/img/portfolio/botao003.jpg" class="img-port3"></a>
+    <a href="@{PotesR}"><img src="static/img/portfolio/botao004.jpg" class="img-port3"></a>
+    <a href="@{PratosR}"><img src="static/img/portfolio/botao005.jpg" class="img-port3"></a>
+    <a href="@{TacasR}"><img src="static/img/portfolio/botao006.jpg" class="img-port3"></a>
+    <a href="@{VasosR}"><img src="static/img/portfolio/botao007.jpg" class="img-port3"></a>
+    <a href="@{OutrosR}"><img src="static/img/portfolio/botao001.jpg" class="img-port3"></a>
+    <a href="@{QuadroR}"><img src="static/img/portfolio/botao008.jpg" class="img-port3"></a>
+    <a href="@{PublicacoesR}"><img src="static/img/portfolio/botao009.jpg" class="img-port3"></a>

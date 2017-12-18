@@ -1,0 +1,1 @@
+<header><h1><a href="@{HomeR}"><img src="https://haskmu-romefeller.c9users.io/static/img/menu/logo001.png" id="logo" alt="Cidinha Porcelanas"></a></h1><a href="@{AdmR}" id="voltar2">VOLTAR</a>
